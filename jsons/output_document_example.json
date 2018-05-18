@@ -1,0 +1,11 @@
+{
+  "event": {
+    "isTouch": false
+  },
+  "dimensions": {
+    "sH": 345,
+    "sW": 901
+  },
+  "user.deviceSize": "345 X 901",
+  "user.deviceType": "pc"
+}

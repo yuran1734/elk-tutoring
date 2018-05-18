@@ -1,0 +1,9 @@
+{
+  "dimensions": {
+    "sH": 345,
+    "sW": 455
+  },
+  "event": {
+    "isTouch": true
+  }
+}
